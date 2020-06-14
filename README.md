@@ -1,6 +1,6 @@
 # Task Debounce
 
-[Demo Link](https://corobox.github.io/js_task-debounce/src/)
+[Demo Link](https://corobox.github.io/js_debounce/)
 
 **TODO:**
 
